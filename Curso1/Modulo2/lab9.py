@@ -13,7 +13,7 @@ print(
 """)
 
 while secret_number != number_user:
-    print("¡Ja, ja! ¡Estás atrapado en mi bucle!")
+    print("\"¡Ja, ja! ¡Estás atrapado en mi bucle!\"")
     number_user = int(input("Introduce tu número aquí: "))
 
 print("¡Bien hecho, muggle! Eres libre ahora.")
